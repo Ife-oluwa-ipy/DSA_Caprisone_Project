@@ -20,6 +20,6 @@ This basically involvedthe exploring of the data to answer some question about t
 - What is the total number of reviews per category?
 - What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 - What is the total potential revenue (actual_price × rating_count) by category?
-- ### Data Analysis
-- For the amazon case study data i observed that:
-    1. 
+
+   ### Analysis
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21019490/Amazon.case.study.xlsx)
