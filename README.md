@@ -23,6 +23,3 @@ This basically involvedthe exploring of the data to answer some question about t
 
    ### Analysis
 
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21019606/Amazon.case.study.xlsx)
-
-
