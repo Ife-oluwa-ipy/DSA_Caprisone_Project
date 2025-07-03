@@ -7,7 +7,7 @@
 This data analysis project aims to generate insights that can guide product improvement, marketing strategies, and customer engagement by analysing the product and customer review data. By carefully analysing this data we seek to gather enough insights to make resonable decision concerning how best to go about marketing strategies and improvement in our products.
 
 ### Tools Used
-- Ms Excel for data cleaning
+- Ms Excel for data cleaning [Download Here](
   
 ### Data Cleaning and Prepartion
 At the intial phase of the data cleaning and preparation we used the following steps;
