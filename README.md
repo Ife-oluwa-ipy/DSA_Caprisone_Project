@@ -23,4 +23,6 @@ This basically involvedthe exploring of the data to answer some question about t
 
    ### Analysis
   "C:\Users\HP\Downloads\Amazon case study.xlsx"
+  [Download CSV](https://github.com/Ife-oluwa-ipy/DSA_Caprisone_Project)
+  
 
