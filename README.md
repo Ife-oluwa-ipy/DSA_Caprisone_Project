@@ -22,5 +22,8 @@ This basically involvedthe exploring of the data to answer some question about t
 - What is the total potential revenue (actual_price × rating_count) by category?
 
    ### Analysis
- [Pie Chart](
+![Dsa_Project](https://github.com/user-attachments/assets/2f2cc7dc-8301-49b6-850d-dc83056f4f34)
+
+![Dsa_Project_1](https://github.com/user-attachments/assets/4b94dc63-f297-412a-bfda-9a68daa8fd80)
+
 
