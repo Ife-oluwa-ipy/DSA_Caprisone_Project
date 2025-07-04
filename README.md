@@ -22,7 +22,5 @@ This basically involvedthe exploring of the data to answer some question about t
 - What is the total potential revenue (actual_price × rating_count) by category?
 
    ### Analysis
-  "C:\Users\HP\Downloads\Amazon case study.xlsx"
-  [Download CSV](https://github.com/Ife-oluwa-ipy/DSA_Caprisone_Project)
-  https://github.com/Ife-oluwa-ipy/DSA_Caprisone_Project/blob/main/Amazon%20case%20study.xlsx
+ [Pie Chart](
 
